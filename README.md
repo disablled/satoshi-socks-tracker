@@ -1,2 +1,13 @@
-# satoshi-socks-tracker
-The first decentralized protocol on Bitcoin L1 dedicated to tracking Satoshi Nakamoto's lost laundry. While others build complex DeFi, we solve the ultimate mystery: Where is the left sock? Utilizing L1's immutable ledger to ensure your socks are never double-spent or lost in a sidechain. Proof-of-Laundry is here
+# 🧦 Satoshi's Left Sock Tracker
+
+**The world's first immutable laundry verification protocol on Bitcoin L1.**
+
+### Why Bitcoin?
+Because only the most secure network can handle the responsibility of finding Satoshi's missing sock. 
+
+### Roadmap
+- [x] Phase 1: Admit the sock is lost.
+- [ ] Phase 2: Scan the Mempool for lint.
+- [ ] Phase 3: Mainnet sock recovery.
+
+*Note: This is a Fun project for Vibecode. Finance. No real socks were harmed.*
